@@ -1,0 +1,4 @@
+interface:
+  display_name: "Colorize"
+  short_description: "Black-and-white to color reveal with Tyndall spin focus for photos, videos and Live Photos"
+  default_prompt: "Use $colorize to turn my photo into a 2-second black-and-white to color reveal MP4."
